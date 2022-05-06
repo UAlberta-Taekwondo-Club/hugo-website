@@ -1,7 +1,6 @@
 baseURL = "https://uatkd.ca"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
-googleAnalytics = 'G-K5PZKE98K4'
 
 # Plugins
 [params.plugins]
@@ -62,7 +61,7 @@ googleAnalytics = 'G-K5PZKE98K4'
 
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  googleTagManagerID = "G-K5PZKE98K4" # Google Analytics works with Google Tag Manager
 
   [params.logo]
     text1 = "Andreas"

@@ -33,3 +33,4 @@
 ## Links
 
 - [Deploying website to Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+- [Configure Google Analytics](UAlberta-Taekwondo-Club)

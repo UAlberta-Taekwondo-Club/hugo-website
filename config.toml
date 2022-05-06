@@ -1,6 +1,7 @@
 baseURL = "https://ualberta-taekwondo-club.github.io"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
+googleAnalytics = 'G-K5PZKE98K4'
 
 # Plugins
 [params.plugins]

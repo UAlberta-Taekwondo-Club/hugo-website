@@ -1,8 +1,8 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
+  title: "UAlberta Taekwondo"
+  subtitle: "korean martial arts club"
   description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"

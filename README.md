@@ -1,6 +1,8 @@
 # UAlberta Taekwondo Hugo Website
 
 - [uatkd.ca](https://uatkd.ca/)
+- [Google Analytics - Track website traffic](https://analytics.google.com/analytics/web/#/p313493405/reports/reportinghub)
+
 - Built on [Hugo](https://gohugo.io/)
 - Using [Raditian hugo theme](https://themes.gohugo.io/themes/raditian-free-hugo-theme/)
 
@@ -8,7 +10,7 @@
 
 ### [Install Hugo](https://gohugo.io/getting-started/installing/)
 
-- `hugo.exe` for windows 64-bit has already been installed in this Github repo
+- `hugo.exe` for hugo v0.98.0 on windows 64-bit has already been installed in this Github repo
 
 1. Go to https://github.com/gohugoio/hugo/releases
 2. Scroll down to **Assets** and download the `.zip` file for your operating system

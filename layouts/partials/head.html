@@ -1,9 +1,10 @@
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 <!-- Google Tag Manager -->
 <script>
     (function (w, d, s, l, i) {
+        if (!i) return // exit if `googleTagManagerID` is undefined
         w[l] = w[l] || [];
         w[l].push({
             'gtm.start': new Date().getTime(),
@@ -213,5 +214,5 @@
 </style>
 
 {{ range .Site.Params.plugins.css }}
-<link rel="stylesheet" href="{{ .URL | absURL }}"/>
+<link rel="stylesheet" href="{{ .URL | absURL }}" />
 {{ end }}

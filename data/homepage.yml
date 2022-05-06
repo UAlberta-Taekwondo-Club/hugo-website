@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "UAlberta Taekwondo"
   subtitle: "korean martial arts club"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "Join us for a good time"
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -12,49 +12,33 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    btnText: "crtkd@ualberta.ca"
+    URL: "mailto:crtkd@ualberta.ca"
 
   socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
-
-    - icon: "github"
-      URL: "https://github.com/radity"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
+    # - icon: "linkedin",  "github", "twitter", "dribbble", "behance", "facebook", "codepen", "yelp"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+      URL: "https://www.youtube.com/channel/UCF9sw7YeFE9mbM-POCMie7g"
 
     - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
+      URL: "https://www.instagram.com/ua_taekwondo/"
 
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
+    - icon: "discord"
+      URL: "https://www.instagram.com/ua_taekwondo/"
 
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+    - icon: "linktree"
+      URL: "FD"
 
 # about
 about:
   enable: true
   title: "Who am I?"
-  content: '<p class="lead">
+  content: '
     I am back, after a few days of vacationing with family. Weather was awesome, the beach was
     full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
     good for all of you.
-    </p>
+
     <p class="lead">
     My area of focus lies in designing web and mobile products, user research as well as
     leading of design & front-end teams. I enjoy designing and coding the UI as much as

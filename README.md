@@ -23,9 +23,13 @@
    - Note that the `hugo` here is the `hugo.exe` file that must be downloaded
 4. Go to http://localhost:1313/
 
-### Hugo commands
+## Hugo commands
 
 | Hugo command                | Description                |
 | --------------------------- | -------------------------- |
 | `hugo new site <site name>` | Creates a new hugo website |
 | `hugo server`               | Run hugo website           |
+
+## Links
+
+- [Deploying website to Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)

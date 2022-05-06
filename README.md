@@ -19,7 +19,7 @@
 1. Open a terminal and type the following commands:
 2. `cd` into the `/hugo-website` folder
    - For example, type `cd C:/Downloads/hugo-website`
-3. Type `hugo server`
+3. Type `hugo server` or `./hugo server`
    - Note that the `hugo` here is the `hugo.exe` file that must be downloaded
 4. Go to http://localhost:1313/
 
@@ -33,4 +33,4 @@
 ## Links
 
 - [Deploying website to Github Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
-- [Configure Google Analytics](UAlberta-Taekwondo-Club)
+- [Configure Google Analytics](https://gohugo.io/templates/internal/#google-analytics)

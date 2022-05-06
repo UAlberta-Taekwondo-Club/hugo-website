@@ -1,7 +1,8 @@
 # UAlberta Taekwondo Hugo Website
 
-- [uatkd.ca](https://uatkd.ca/)
-- [Google Analytics - Track website traffic](https://analytics.google.com/analytics/web/#/p313493405/reports/reportinghub)
+- **Hugo is no longer being used because it's too difficult to change the theme code**
+
+- [https://ualberta-taekwondo-club.github.io/hugo-website/](https://ualberta-taekwondo-club.github.io/hugo-website/)
 
 - Built on [Hugo](https://gohugo.io/)
 - Using [Raditian hugo theme](https://themes.gohugo.io/themes/raditian-free-hugo-theme/)

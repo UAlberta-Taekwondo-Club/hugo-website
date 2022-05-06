@@ -1,6 +1,5 @@
-baseURL = "https://uatkd.ca"
+baseURL = "https://ualberta-taekwondo-club.github.io"
 languageCode = "en-us"
-googleAnalytics = 'G-K5PZKE98K4'
 logo = "img/logo.png"
 
 # navigation
